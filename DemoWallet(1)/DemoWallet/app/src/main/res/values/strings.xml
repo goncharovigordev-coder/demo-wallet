@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DemoWallet (учебный проект)</string>
+    <string name="demo_banner">⚠ ДЕМО — учебный проект. Не является реальным криптокошельком. Все балансы вымышленные.</string>
+    <string name="total_balance_label">Общий баланс (демо)</string>
+    <string name="asset_detail_title">Детали актива (DEMO)</string>
+    <string name="edit_balance">Изменить баланс</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="add_asset">Добавить актив</string>
+    <string name="history_title">История операций (демо-данные)</string>
+    <string name="no_history">Операций пока нет</string>
+    <string name="hint_amount">Введите сумму, например 1250.50</string>
+</resources>
